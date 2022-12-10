@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-Let's see how far I get.
+These are my notes. Let's see how far I get.
 
 ## Day 1
 
@@ -31,3 +31,7 @@ Notes:
 Answer: 10718
 
 ## Day 3
+
+No notes
+
+## Day 4
